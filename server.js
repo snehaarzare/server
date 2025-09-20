@@ -30,3 +30,4 @@ app.get("/api/data", (req, res) => {
   };
   res.json(sampleData);
 });
+
